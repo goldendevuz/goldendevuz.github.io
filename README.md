@@ -8,9 +8,8 @@ Live site: [goldendevuz.github.io](https://goldendevuz.github.io) · [univel.uz]
 
 ## Featured Apps
 
-- **Rung**: Paid-ranking directory and marketplace for Telegram channels and products. Rank is bought dynamically with internal B coins. ([Live Website](https://rung.shats.uz) · [Telegram Bot](https://t.me/rung_uz_bot) · [GitHub](https://github.com/goldendevuz/rung))
+- **Rung**: Paid-ranking directory and marketplace for Telegram channels and products with automated [inPAY](https://inpay.uz) checkout. Rank is bought dynamically with internal B coins. ([Live Website](https://rung.shats.uz) · [Telegram Bot](https://t.me/rung_uz_bot) · [GitHub](https://github.com/goldendevuz/rung))
 - **Alifbek**: High-performance Uzbek Cyrillic, Classic Latin, and New Latin (Ö Ğ Ş Ç) transliteration suite and Telegram bot. ([Telegram Bot](https://t.me/AlifbekBot) · [GitHub](https://github.com/goldendevuz/AlifbekBot))
-- **Monoblast**: Minimalist neon block puzzle for iOS. ([App Store](https://apps.apple.com/ch/app/monoblast/id6776011658))
 
 ---
 
