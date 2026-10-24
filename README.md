@@ -9,6 +9,7 @@ Live site: [goldendevuz.github.io](https://goldendevuz.github.io) · [univel.uz]
 ## Featured Apps
 
 - **Rung**: Paid-ranking directory and marketplace for Telegram channels and products with automated [inPAY](https://inpay.uz) checkout. Rank is bought dynamically with internal B coins. ([Live Website](https://rung.shats.uz) · [Telegram Bot](https://t.me/rung_uz_bot) · [GitHub](https://github.com/goldendevuz/rung))
+- **Top3**: Curated domain directory, pay-to-rank leaderboard, and 24-hour bidding auction marketplace for Uzbekistan web projects and .uz domains. Powered by automated [inPAY](https://inpay.uz) payments, anti-gaming click tracking, and Google SSO. ([Live Website](https://top3.uz) · [GitHub](https://github.com/goldendevuz/top3))
 - **Alifbek**: High-performance Uzbek Cyrillic, Classic Latin, and New Latin (Ö Ğ Ş Ç) transliteration suite and Telegram bot. ([Telegram Bot](https://t.me/AlifbekBot) · [GitHub](https://github.com/goldendevuz/AlifbekBot))
 
 ---
